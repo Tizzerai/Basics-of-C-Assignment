@@ -1,0 +1,14 @@
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\obj\Debug\net8.0\Basics of C# Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\obj\Debug\net8.0\Basics of C# Assignment.AssemblyInfoInputs.cache
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\obj\Debug\net8.0\Basics of C# Assignment.AssemblyInfo.cs
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\obj\Debug\net8.0\Basics of C# Assignment.csproj.CoreCompileInputs.cache
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\bin\Debug\net8.0\Basics of C# Assignment.exe
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\bin\Debug\net8.0\Basics of C# Assignment.deps.json
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\bin\Debug\net8.0\Basics of C# Assignment.runtimeconfig.json
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\bin\Debug\net8.0\Basics of C# Assignment.dll
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\bin\Debug\net8.0\Basics of C# Assignment.pdb
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\obj\Debug\net8.0\Basics of C# Assignment.dll
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\obj\Debug\net8.0\refint\Basics of C# Assignment.dll
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\obj\Debug\net8.0\Basics of C# Assignment.pdb
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\obj\Debug\net8.0\Basics of C# Assignment.genruntimeconfig.cache
+E:\SAIT semester 2\Object Oriented 2\Demos\Basics of C# Assignment\Basics of C# Assignment\obj\Debug\net8.0\ref\Basics of C# Assignment.dll

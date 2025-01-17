@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\SAIT semester 2\\Object Oriented 2\\Demos\\Basics of C# Assignment\\Basics of C# Assignment\\Basics of C# Assignment.csproj": {}
+  },
+  "projects": {
+    "E:\\SAIT semester 2\\Object Oriented 2\\Demos\\Basics of C# Assignment\\Basics of C# Assignment\\Basics of C# Assignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\SAIT semester 2\\Object Oriented 2\\Demos\\Basics of C# Assignment\\Basics of C# Assignment\\Basics of C# Assignment.csproj",
+        "projectName": "Basics of C# Assignment",
+        "projectPath": "E:\\SAIT semester 2\\Object Oriented 2\\Demos\\Basics of C# Assignment\\Basics of C# Assignment\\Basics of C# Assignment.csproj",
+        "packagesPath": "C:\\Users\\tessa\\.nuget\\packages\\",
+        "outputPath": "E:\\SAIT semester 2\\Object Oriented 2\\Demos\\Basics of C# Assignment\\Basics of C# Assignment\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\SAIT semester 2\\VS shared component\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tessa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
